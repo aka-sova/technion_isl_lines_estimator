@@ -1,0 +1,11 @@
+x64/*
+Debug/*
+.vs/*
+
+include/boost/*
+include/Eigen/*
+include/cxx/*
+include/ba/*
+
+img*.*
+images.txt
